@@ -3,39 +3,31 @@
 </p>
 
 
-<p align="center">
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zinon-software&theme=tokyonight_duo" alt="manarshahin48" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zinon-software&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
   
-<img src="https://img.shields.io/npm/dy/silentlad">
+----
+<summary><b>⚡ Git profile Trophies</b></summary>
 
-<img src="https://img.shields.io/badge/made%20by-silentlad-blue.svg" >
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinon-software&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
 
-<img src="https://img.shields.io/badge/vue-2.2.4-green.svg">
+----
 
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
-
-<img src="https://beerpay.io/silent-lad/VueSolitaire/badge.svg?style=flat">
-
-<img src="https://img.shields.io/github/stars/silent-lad/VueSolitaire.svg?style=flat">
-
-<img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
-
-<img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
-
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-</p>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/manarshahin48"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zinon-software&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 
-<!--
-**zinon-software/zinon-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

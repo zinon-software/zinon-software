@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-``` {language-extension}<space>{Code block Inside} ```
+ {language-extension}<space>{Code block Inside} 
 
 <!--
 **zinon-software/zinon-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

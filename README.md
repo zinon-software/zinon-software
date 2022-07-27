@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- {language-extension}<space>{Code block Inside} 
+https://img.shields.io/github/languages/count/zinon-software/kinglink-flutter?style=for-the-badge
 
 <!--
 **zinon-software/zinon-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

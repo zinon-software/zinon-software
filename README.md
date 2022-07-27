@@ -1,6 +1,6 @@
+<p align="center">
 ### Hi there 👋
-
-https://img.shields.io/github/languages/count/zinon-software/kinglink-flutter?style=for-the-badge
+</p>
 
 
 <p align="center">

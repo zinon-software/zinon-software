@@ -1,5 +1,8 @@
 <p align="center">
 ## Hi there 👋 i'am ABDULRAHMAN MORSHED
+
+I am senior programmer in Flutter and working as a team leader which working on mobile application. Also i am back-end(django) developer.
+
 	<br>
 <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 	<br>

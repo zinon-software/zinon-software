@@ -1,3 +1,23 @@
+<div id="header" align="center">
+  <h1>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   i'm Hamada Mohamed
+</h2>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="10" height="10"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/hamada-mohamed-seif-531162156/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/hamada.devlop">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+  
+<!--   <img src="https://komarev.com/ghpvc/?username=HamadaAllipy&style=flat-square&color=blue" alt=""/> -->
+</div>
+
+
 <p align="center">
 ## Hi there 👋 i'am ABDULRAHMAN MORSHED
 
@@ -11,12 +31,12 @@ I am senior programmer in Flutter and working as a team leader which working on 
 
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zinon-software&theme=tokyonight_duo" alt="manarshahin48" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zinon-software&theme=tokyonight_duo" alt="zinon-software" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zinon-software&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zinon-software&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="zinon-software" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -25,13 +45,13 @@ I am senior programmer in Flutter and working as a team leader which working on 
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinon-software&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinon-software&layout=compact&theme=algolia" alt="ABDULRAHMAN MORSHED" /></a> </p>
 
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/manarshahin48"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zinon-software&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/zinon-software"><img alt="ABDULRAHMAN MORSHED's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zinon-software&custom_title=ABDULRAHMAN%20MORSHED%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 

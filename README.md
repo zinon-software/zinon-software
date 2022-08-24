@@ -2,16 +2,19 @@
   <h1>
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   i'm Hamada Mohamed
+   i'm ABDULRAHMAN MORSHED
 </h2>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="10" height="10"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/hamada-mohamed-seif-531162156/">
+  <a href="https://www.linkedin.com/in/abdulrahman-morshed-420715227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/hamada.devlop">
+<!--   <a href="https://www.facebook.com/hamada.devlop">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  </a> -->
+	  
+	    <img src="https://komarev.com/ghpvc/?username=HamadaAllipy&style=flat-square&color=blue" alt=""/>
+
 </div>
   
 <!--   <img src="https://komarev.com/ghpvc/?username=HamadaAllipy&style=flat-square&color=blue" alt=""/> -->

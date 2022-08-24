@@ -17,15 +17,25 @@
 
 </div>
 	
-	<p align="center">
-I am senior programmer in Flutter and working as a team leader which working on mobile application. Also i am back-end(django) developer.</p>
-  
 <!--   <img src="https://komarev.com/ghpvc/?username=HamadaAllipy&style=flat-square&color=blue" alt=""/> -->
 </div>
 
+---
+ ### :man_technologist:  About Me :
+ 
+ I am senior programmer in Flutter and working as a team leader which working on mobile application. Also i am back-end(django) developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yemen.
+ - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications all plarforms.
+
+- :seedling: Technical Support flutter at IEEE
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+
+---
+
 
 <p align="center">
-I am senior programmer in Flutter and working as a team leader which working on mobile application. Also i am back-end(django) developer.
+
 
 	<br>
 <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>

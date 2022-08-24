@@ -23,12 +23,11 @@
 ---
  ### :man_technologist:  About Me :
  
- I am senior programmer in Flutter and working as a team leader which working on mobile application. Also i am back-end(django) developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yemen.
- - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications all plarforms.
+ I am senior programmer in Flutter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yemen.
+ - :telescope: I’m working as a team leader which working on mobile application. Also i am back-end(django) developer .
 
 - :seedling: Technical Support flutter at IEEE
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 
 ---

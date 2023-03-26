@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/abdulrahman-morshed-420715227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://zinon-software.github.io/abdulrahman/">Portfolio</a>
 <!--   <a href="https://www.facebook.com/hamada.devlop">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> -->

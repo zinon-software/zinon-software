@@ -1,88 +1,103 @@
-<div id="header" align="center">
-  <h1>
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   i'm ABDULRAHMAN MORSHED
-</h2>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="10" height="10"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/abdulrahman-morshed-420715227/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-	  <br>
-  <a href="https://zinon-software.github.io/abdulrahman/">Portfolio</a>
-<!--   <a href="https://www.facebook.com/hamada.devlop">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a> -->
-	  
-<!-- 	    <img src="https://komarev.com/ghpvc/?username=HamadaAllipy&style=flat-square&color=blue" alt=""/> -->
+# Hi, I'm Abdulrahman Morshed 👋
 
-</div>
-	
-<!--   <img src="https://komarev.com/ghpvc/?username=HamadaAllipy&style=flat-square&color=blue" alt=""/> -->
-</div>
+## Senior Flutter Developer | Team Leader | Open Source Contributor
 
----
- ### :man_technologist:  About Me :
- 
- I am senior programmer in Flutter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yemen.
- - :telescope: I’m working as a team leader which working on mobile application. Also i am back-end(django) developer .
-
-- :seedling: Technical Support flutter at IEEE
-
-
+I'm a passionate Flutter developer with **8 years** in software development and **4+ years** specialized in Flutter. Currently leading Flutter development at Sumou Agency, building scalable mobile applications with Clean Architecture.
 
 ---
 
+### 🚀 What I Do
 
+- 📱 Build production-ready Flutter apps with **Clean Architecture** & **BLoC**
+- 🎯 Lead development teams and mentor junior developers
+- 🔧 Create reusable packages and contribute to open source
+- 🔒 Implement secure payment systems and real-time communication
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
+### 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Expertise:**
+- State Management: BLoC, Cubit, GetX
+- Architecture: Clean Architecture, MVVM, Repository Pattern
+- Real-time: WebSocket, WebRTC, FCM
+- Payments: HyperPay, Apple Pay, Google Pay, In-App Purchase
+- Storage: Hive, SQLite, Shared Preferences
+
 ---
 
+### 📱 Featured Apps
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Abber</h3>
+      <p>Consulting Services Marketplace</p>
+      <a href="https://play.google.com/store/apps/details?id=co.abber_dev.abber_app">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <a href="https://apps.apple.com/app/id6461119454">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Manam</h3>
+      <p>Dream Interpretation Platform</p>
+      <a href="https://play.google.com/store/apps/details?id=co.manams.manam">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <a href="https://apps.apple.com/us/app/id6743326831">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zinon-software&theme=tokyonight_duo" alt="zinon-software" /></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zinon-software&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="zinon-software" height="230px"/>
-<br/>
+---
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-  
-----
-<summary><b>⚡ Git profile Trophies</b></summary>
+### 📦 Open Source Packages
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinon-software&layout=compact&theme=algolia" alt="ABDULRAHMAN MORSHED" /></a> </p>
+[![flutter_websocket_manager](https://img.shields.io/pub/v/flutter_websocket_manager?label=flutter_websocket_manager&logo=dart)](https://pub.dev/packages/flutter_websocket_manager)
 
-----
+A Flutter package that simplifies WebSocket management, handling messages, errors, and connection states seamlessly.
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/zinon-software"><img alt="ABDULRAHMAN MORSHED's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zinon-software&custom_title=ABDULRAHMAN%20MORSHED%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+---
 
+### 📊 GitHub Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zinon-software&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinon-software&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
+
+### 🏆 Achievements
+
+- 📁 **54+** repositories on GitHub
+- 📱 **5+** production apps on App Store & Google Play
+- 📦 **1** published package on pub.dev
+- 👥 Led Flutter team with **30%** code quality improvement
+- 💰 Saved **SAR 200,000** through efficient delivery
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-m-420715227/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.zinon@gmail.com)
+[![pub.dev](https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_websocket_manager)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zinon-software&color=blue&style=flat-square" alt="Profile Views" />
+</p>
